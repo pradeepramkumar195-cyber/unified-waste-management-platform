@@ -1,0 +1,10 @@
+{
+  "description": "A unified platform for efficient municipal waste management, connecting citizens, collection workers, and recycling agencies to report, track, and improve waste collection and recycling efforts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
